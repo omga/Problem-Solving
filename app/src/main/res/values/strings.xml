@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MySolutions</string>
+
+    <string name="info_link">More open source from Pixplicity:\nhttp://github.com/Pixplicity</string>
+    <string name="page_number_1d">Page #%d</string>
+    <string name="ok">OK</string>
+</resources>
